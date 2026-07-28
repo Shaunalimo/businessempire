@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a7f216ca6ca30b4eb0c52d2f6eb9cf4, type: 3}
+  m_Name: Factory
+  m_EditorClassIdentifier: 
+  type: 6
+  displayName: Factory
+  description: Manufacturing at scale with high overhead.
+  icon: {fileID: 21300000, guid: 5bb56cd233a54cb18fd5164c83b76c72, type: 3}
+  purchaseCost: 200000
+  baseDailyIncome: 4800
+  baseSalaryPerEmployee: 250
+  upgradeCostMultiplier: 1.5
+  incomeGrowthPerLevel: 0.15
+  customerGrowthRate: 0.05
+  startingEmployeeSlots: 2
+  maxEmployees: 3
+  requiredPlayerLevel: 4
+  prerequisiteBusiness: 4
+  requiresPrerequisite: 1

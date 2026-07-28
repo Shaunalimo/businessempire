@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc4ee832aeecf6540a193de9d3596a6b, type: 3}
+  m_Name: IapProductCatalog
+  m_EditorClassIdentifier: 
+  products:
+  - productId: com.tekhgames.businessempire.removeads
+    displayName: Remove Ads
+    description: Removes banner and interstitial ads permanently.
+    productType: 1
+    gemAmount: 0
+    cashAmount: 0
+    isNonConsumable: 1
+  - productId: com.tekhgames.businessempire.starterpack
+    displayName: CEO Starter Pack
+    description: 25,000 cash + 250 gems — one-time bundle.
+    productType: 1
+    gemAmount: 250
+    cashAmount: 25000
+    isNonConsumable: 1
+  - productId: com.tekhgames.businessempire.gems100
+    displayName: 100 Gems
+    description: Premium currency pack.
+    productType: 0
+    gemAmount: 100
+    cashAmount: 0
+    isNonConsumable: 0
+  - productId: com.tekhgames.businessempire.gems500
+    displayName: 500 Gems
+    description: Best value gem pack.
+    productType: 0
+    gemAmount: 500
+    cashAmount: 0
+    isNonConsumable: 0
+  - productId: com.tekhgames.businessempire.gems1200
+    displayName: 1200 Gems
+    description: Mega gem bundle.
+    productType: 0
+    gemAmount: 1200
+    cashAmount: 0
+    isNonConsumable: 0

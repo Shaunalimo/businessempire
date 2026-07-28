@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f53022e67631b56448103c1864365de0, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: 
+  buttonClick: {fileID: 8300000, guid: 6faacfb90e644176b8be09acd402cdc5, type: 3}
+  panelOpen: {fileID: 8300000, guid: b8ac56f90729418da353d15941bffa4d, type: 3}
+  panelClose: {fileID: 8300000, guid: 3705e1128c384c949f14b2a0ee691217, type: 3}
+  error: {fileID: 8300000, guid: 4b1e342ffbe54b25a8b392124c3ff849, type: 3}
+  purchase: {fileID: 8300000, guid: 44ac6116ee0d4e66a39b20be54ca62ee, type: 3}
+  upgrade: {fileID: 8300000, guid: 29a17bc0cc264559bb683d9a9bbed51f, type: 3}
+  coinCollect: {fileID: 8300000, guid: f3461b84e74b4672941950a368ceba15, type: 3}
+  cashRegister: {fileID: 8300000, guid: e5a7d90c360241c1b1bef7d484e91182, type: 3}
+  reward: {fileID: 8300000, guid: 972471d83c974d36b048ac48be147fee, type: 3}
+  achievement: {fileID: 8300000, guid: 3ad0b36810ff449592017647897af13f, type: 3}
+  levelUp: {fileID: 8300000, guid: 4ee153dd7eed4e58b666a3461508ba06, type: 3}
+  dayAdvance: {fileID: 8300000, guid: 9a230f3b400346e5a952b337c4592f90, type: 3}
+  positiveEvent: {fileID: 8300000, guid: 8f78ad7c3ebf47aea2a733b119d8b150, type: 3}
+  negativeEvent: {fileID: 8300000, guid: 73c9878994a34fe78933e9c7494a4932, type: 3}
+  mainMenuMusic: {fileID: 8300000, guid: c54c6b21314948a893f89975d3ef6ba2, type: 3}
+  gameplayMusic: {fileID: 8300000, guid: dd78bc40ff884d46bccff330ef2ff4a2, type: 3}

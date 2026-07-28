@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Google Mobile Ads App ID (Android).
+  Replace with your production App ID from AdMob console.
+  Also processed at build time by AdMobAndroidManifestProcessor.
+-->
+<resources>
+  <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>

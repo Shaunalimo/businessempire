@@ -1,0 +1,7 @@
+{
+  "employees": [
+    { "business": "GroceryShop", "role": "Cashier", "salary": 80 },
+    { "business": "CoffeeShop", "role": "Barista", "salary": 90 },
+    { "business": "Restaurant", "role": "Server", "salary": 120 }
+  ]
+}
